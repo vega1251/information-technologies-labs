@@ -1,1 +1,1 @@
-https://app.diagrams.net/
+Лаба 2: https://app.diagrams.net/
